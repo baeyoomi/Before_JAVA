@@ -1,0 +1,10 @@
+package sec02_exam07;
+
+public class ForfloatCounterExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
