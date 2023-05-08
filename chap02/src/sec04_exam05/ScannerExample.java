@@ -6,7 +6,7 @@ public class ScannerExample {
 
 	public static void main(String[] args) {
 		// ctrl + shift + o = 클래스 인식 안되서 에러로 인식되면 import로 파일 찾아줌(매우 간편~)
-		@SuppressWarnings("resource")
+		// @SuppressWarnings("resource")
 		//오류 잡혀서 resource 넣음
 		Scanner scanner = new Scanner(System.in);
 		String inputData;
